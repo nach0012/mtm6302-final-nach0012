@@ -1,4 +1,3 @@
-# mtm6302-final-nach0012
 # MyStyle – Personal Digital Wardrobe
 
 **Developer:** Saida Nachit
